@@ -17,3 +17,5 @@ This project analyzes the relationship between treatment cost and length of stay
 - `project_analysis.py`: Python script for data cleaning, analysis, and visualization.
 - `hospital_operations.csv`: The hospital operations dataset used in the analysis.
 - `combined_analysis.png`: Combined chart showing the analysis results.
+- -cost_analysis.png: Chart showing treatment cost analysis by department.
+- - department_summary.csv: Summary table of key metrics by department.
