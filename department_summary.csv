@@ -1,0 +1,6 @@
+Department,Avg_Cost,Avg_Stay
+Surgery,3200.0,8.83
+ICU,2500.0,7.5
+Cardiology,1800.0,5.67
+Pediatrics,1200.0,2.83
+Emergency,800.0,2.17
